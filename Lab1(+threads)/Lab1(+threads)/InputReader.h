@@ -1,6 +1,10 @@
 #pragma once
 
 
+struct Data{
+	vector<vector<int>> matrix;
+	int threadAmount;
+};
 
 class InputReader
 {
@@ -12,5 +16,6 @@ public:
 	~InputReader();
 
 	vector<vector<int>> GetMatrix();
+	int GetThreadAmount();
 };
 

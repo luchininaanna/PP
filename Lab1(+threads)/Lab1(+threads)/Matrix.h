@@ -2,8 +2,11 @@
 class Matrix
 {
 private:
+	int threadCount;
 	vector<vector<int>> matrix;
 	vector<vector<int>> addMatrix;
+	vector<vector<int>> newMatrix;
+	vector<vector<vector<int>>> m_portions;
 
 	void InitializeAddMatrix(vector<vector<int>> &addMatrix);
 
@@ -18,7 +21,7 @@ private:
 	vector<vector<vector<int>>> Devide(int dimension, int amount);
 
 public:
-	Matrix(vector<vector<int>> &matrixVector);
+	Matrix(vector<vector<int>> &matrixVector, int threadAmount);
 	~Matrix();
 
 	bool IsNotEmptyMatrix();
@@ -31,11 +34,5 @@ struct MainData {
 	vector<vector<int>> newMatrix;
 	int x;
 	int y;
-	Matrix* matrixPtr;
-};
-
-struct DataForThread {
-	vector<vector<int>> newMatrix;
-	vector<vector<int>> portion;
 	Matrix* matrixPtr;
 };

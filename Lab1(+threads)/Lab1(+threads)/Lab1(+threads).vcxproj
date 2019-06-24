@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CDataForThread.h" />
     <ClInclude Include="InputReader.h" />
     <ClInclude Include="Matrix.h" />
     <ClInclude Include="OutputWriter.h" />
@@ -154,6 +155,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CDataForThread.cpp" />
     <ClCompile Include="InputReader.cpp" />
     <ClCompile Include="Lab1(+threads).cpp" />
     <ClCompile Include="Matrix.cpp" />

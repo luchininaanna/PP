@@ -13,6 +13,24 @@ InputReader::~InputReader()
 {
 }
 
+int InputReader::GetThreadAmount() {
+
+	ifstream ifs(inputFile);
+	vector<vector<int>> matrix;
+
+	int threadAmount;
+
+	if (!ifs.is_open())
+	{
+		cout << "Sorry, input file can not be opened." << endl;
+	}
+	else
+	{
+		ifs >> threadAmount;
+	}
+
+	return threadAmount;
+}
 
 vector<vector<int>> InputReader::GetMatrix()
 {
@@ -25,6 +43,9 @@ vector<vector<int>> InputReader::GetMatrix()
 	}
 	else
 	{
+		int threadAmount;
+		ifs >> threadAmount;
+
 		int dimension;
 		ifs >> dimension;
 

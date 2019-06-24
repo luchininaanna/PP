@@ -1,0 +1,20 @@
+C:\Users\fedor\source\repos\PPLab1\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\fedor\source\repos\PPLab1\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\fedor\source\repos\PPLab1\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\fedor\source\repos\PPLab1\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\fedor\source\repos\PPLab1\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\fedor\source\repos\PPLab1\Lab3\Lab3\obj\Debug\Lab3.pdb
+F:\PP-master\Lab3\Lab3\bin\Debug\Lab3.exe.config
+F:\PP-master\Lab3\Lab3\bin\Debug\Lab3.exe
+F:\PP-master\Lab3\Lab3\bin\Debug\Lab3.pdb
+F:\PP-master\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+F:\PP-master\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+F:\PP-master\Lab3\Lab3\obj\Debug\Lab3.exe
+F:\PP-master\Lab3\Lab3\obj\Debug\Lab3.pdb
+F:\6 семестр\PP\Lab3\Lab3\bin\Debug\Lab3.exe.config
+F:\6 семестр\PP\Lab3\Lab3\bin\Debug\Lab3.exe
+F:\6 семестр\PP\Lab3\Lab3\bin\Debug\Lab3.pdb
+F:\6 семестр\PP\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+F:\6 семестр\PP\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+F:\6 семестр\PP\Lab3\Lab3\obj\Debug\Lab3.exe
+F:\6 семестр\PP\Lab3\Lab3\obj\Debug\Lab3.pdb

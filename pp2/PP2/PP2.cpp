@@ -6,7 +6,6 @@
 
 using namespace std;
 
-
 int clientsAmount = 2;
 int variant = 0;
 int currClientsBalance = 0;
